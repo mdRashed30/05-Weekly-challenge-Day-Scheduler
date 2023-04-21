@@ -1,4 +1,4 @@
-# 05 Weekly Project- Day Scheduler
+# 05 Weekly Project- day Scheduler
 
 ## Table of Contents
 
