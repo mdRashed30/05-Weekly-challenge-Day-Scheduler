@@ -1,0 +1,97 @@
+* {
+    font-family: 'Rubik Pixels', cursive;
+}
+
+/* Body section */
+body {
+    font-size: 20px;
+    line-height: 1;
+    background-color: rgb(209, 235, 212);
+}
+
+/* Text box section */
+textarea {
+    background: transparent;
+    border: none;
+    resize: none;
+    color: #d14040;
+    border-left: 1px solid black;
+    padding: 10px;
+}
+
+/*  Header section */
+.jumbotron {
+    text-align: center;
+    border-radius: 0;
+    border-bottom: 1px solid black;
+}
+
+.description {
+    white-space: pre-wrap;
+}
+
+/* Time and Save section */
+.time-block,
+.save-block {
+    text-align: left;
+    border-radius: 15px;
+    color: black;
+}
+
+.row {
+    white-space: pre-wrap;
+    height: 80px;
+    border-top: 1px solid rgb(250, 248, 248);
+}
+
+.buttonDiv {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.hour {
+    color: #89da18;
+    border-top: 1px dashed #000000;
+    border-bottom: 1px dashed #000000;
+    font-size: large;
+}
+
+/* past  class */
+.past {
+    background-color: #ebcbcb;
+}
+
+/* present class */
+.present {
+    background-color: #35532c;
+}
+
+/* future class */
+.future {
+    background-color: #77dd77;
+}
+
+/* Button section */
+.clr-btn {
+    border: 1px solid black;
+}
+
+/* Save button */
+.saveBtn {
+    border-left: 1px solid black;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: rgb(172, 236, 239);
+    color: white;
+}
+
+.saveBtn i:hover {
+    font-size: 30px;
+    transition: all .3s ease-in-out;
+}
+
+.saveBtn :hover {
+    font-size: 40px;
+    transition: all .3s ease-in-out;
+}
