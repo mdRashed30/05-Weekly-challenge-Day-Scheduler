@@ -1,6 +1,6 @@
 $(document).ready(function() {
     
-    // moment date
+    // moment date in
     const currentDate = moment();
     
     
