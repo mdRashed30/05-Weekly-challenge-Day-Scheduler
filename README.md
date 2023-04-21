@@ -80,7 +80,7 @@ A simple Work day Scheduler that allows a user to save events for each hour of t
 
 ## acknowledgements :
 
--- Video Tutorial
+-- Video tutorial
 
 - [Moment.js](https://devhints.io/moment)
 
