@@ -74,7 +74,8 @@ A simple Work day Scheduler that allows a user to save events for each hour of t
 
 ## links
 
-- [Github Repo](https://github.com/mdRashed30/Quiz-Game-Challenege-4)
+- [Github Repo](https://github.com/mdRashed30/05-Weekly-challenge-Day-Scheduler)
+
 - [Deployed Page](https://mdrashed30.github.io/05-Weekly-challenge-Day-Scheduler/)
 
 ## acknowledgements :
